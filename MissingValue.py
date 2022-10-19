@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 17 11:16:10 2022
-@author: shikhar
+@author: garima
 """
 from qiskit import QuantumCircuit, Aer, QuantumRegister, ClassicalRegister
 import qiskit
