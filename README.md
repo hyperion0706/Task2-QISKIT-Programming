@@ -1,4 +1,4 @@
-# Task2-Missing-Value
+# Task2-QISKIT
 The code uses following approach for finding the missing value:
 
 step 1: find the maximum value of list. Let´s call it m
